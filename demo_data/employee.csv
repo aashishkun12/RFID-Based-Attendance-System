@@ -1,0 +1,4 @@
+employee_id,e_name,e_address,e_phone,e_email,e_dob,e_gender,e_hiredate,e_rfid
+101,Ram Thapa,Jamal Kathmandu,9841000001,ram@test.com,1990-05-10,Male,2025-03-01,RFID101
+102,Sita Rai,New Road Kathmandu,9842000002,sita@test.com,1992-08-15,Female,2025-03-01,RFID102
+103,Hari Basnet,Kalanki Kathmandu,9843000003,hari@test.com,1988-11-20,Male,2025-03-01,RFID103
